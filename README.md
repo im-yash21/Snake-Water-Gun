@@ -9,8 +9,8 @@ Welcome to the Snake-Water-Gun game repository! This project contains implementa
 
 ## Languages Implemented
 - JavaScript
-- Python: 
-- C:
+- Python
+- C
 
 ## Getting Started
 
